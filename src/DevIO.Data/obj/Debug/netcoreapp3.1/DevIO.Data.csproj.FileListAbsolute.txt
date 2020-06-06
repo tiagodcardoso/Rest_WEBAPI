@@ -1,0 +1,11 @@
+C:\Labs\Rest_WEBAPI\src\DevIO.Data\bin\Debug\netcoreapp3.1\DevIO.Data.deps.json
+C:\Labs\Rest_WEBAPI\src\DevIO.Data\bin\Debug\netcoreapp3.1\DevIO.Data.dll
+C:\Labs\Rest_WEBAPI\src\DevIO.Data\bin\Debug\netcoreapp3.1\DevIO.Data.pdb
+C:\Labs\Rest_WEBAPI\src\DevIO.Data\bin\Debug\netcoreapp3.1\DevIO.Business.dll
+C:\Labs\Rest_WEBAPI\src\DevIO.Data\bin\Debug\netcoreapp3.1\DevIO.Business.pdb
+C:\Labs\Rest_WEBAPI\src\DevIO.Data\obj\Debug\netcoreapp3.1\DevIO.Data.csprojAssemblyReference.cache
+C:\Labs\Rest_WEBAPI\src\DevIO.Data\obj\Debug\netcoreapp3.1\DevIO.Data.AssemblyInfoInputs.cache
+C:\Labs\Rest_WEBAPI\src\DevIO.Data\obj\Debug\netcoreapp3.1\DevIO.Data.AssemblyInfo.cs
+C:\Labs\Rest_WEBAPI\src\DevIO.Data\obj\Debug\netcoreapp3.1\DevIO.Data.csproj.CopyComplete
+C:\Labs\Rest_WEBAPI\src\DevIO.Data\obj\Debug\netcoreapp3.1\DevIO.Data.dll
+C:\Labs\Rest_WEBAPI\src\DevIO.Data\obj\Debug\netcoreapp3.1\DevIO.Data.pdb
